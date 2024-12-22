@@ -24,4 +24,4 @@ The **Wild Oasis Website** project, it allows users to make reservations to the 
 - **Context API**: State management in React.
 - **Supabase**: Backend database and authentication services.
 
-This project is designed to teach developers how to build a comprehensive full-stack application using Next.js and other modern technologies.
+This project is a comprehensive full-stack application using Next.js and other modern technologies.
