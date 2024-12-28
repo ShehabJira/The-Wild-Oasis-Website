@@ -10,9 +10,11 @@
 	},
 	"dependencies": {
 		"@heroicons/react": "^2.2.0",
+		"@supabase/supabase-js": "^2.47.10",
 		"date-fns": "^4.1.0",
 		"next": "14.2.18",
 		"react": "^18",
+		"react-day-picker": "^9.4.4",
 		"react-dom": "^18"
 	},
 	"devDependencies": {
