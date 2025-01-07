@@ -30,7 +30,7 @@ export async function GET(request, { params }) {
   And so if there was also a page.js file in the same folder, that would then create a conflict,
   because of course, we cannot send HTML and JSON data at the same time.
 
-  [3] From this route.js, we can export one or more functions where each of them can correspond to one of 
+  [3] From this route.js, we can export one or more functions(handlers) where each of them can correspond to one of 
   the HTTP verbs.
 
 */
